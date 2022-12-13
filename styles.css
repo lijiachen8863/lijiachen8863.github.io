@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+    color: black;
+    font-size: xx-large;
+}
+
+h2{
+    margin-left: 60%;
+    color: aqua;
+}
+
+h3{
+    text-align: left;
+    color: rgb(40, 11, 184);
+    font-size: xx-large;
+}
+
+h4{
+    font-size: x-large;
+}
+
+td {
+    font-size: x-large;
+}
+
+p {
+    font-size: x-large;
+    text-align: justify;
+}
+
+li {
+    font-size: x-large;
+}
+
+img{
+    position: center;
+    left: 50%;
+}
+
